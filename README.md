@@ -15,19 +15,6 @@ Graph RAG lets users query a **database schema** stored in Neo4j using natural l
 
 ---
 
-##  Table of Contents
-1. [Getting Started](#getting-started)  
-2. [Prerequisites](#prerequisites)  
-3. [Installation](#installation)  
-4. [Configuration](#configuration)  
-5. [Usage Examples](#usage-examples)  
-6. [Project Structure](#project-structure)  
-7. [Best Practices](#best-practices)  
-8. [Contributing](#contributing)  
-9. [License](#license)
-
----
-
 ## Getting Started
 
 1. **Create `schema.json`** — describe your database schema:
